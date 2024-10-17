@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kino/static/css/main.6f1dfaf9.css",
+    "main.js": "/kino/static/js/main.f382b7ce.js",
+    "index.html": "/kino/index.html",
+    "main.6f1dfaf9.css.map": "/kino/static/css/main.6f1dfaf9.css.map",
+    "main.f382b7ce.js.map": "/kino/static/js/main.f382b7ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1dfaf9.css",
+    "static/js/main.f382b7ce.js"
+  ]
+}
